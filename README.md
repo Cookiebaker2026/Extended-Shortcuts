@@ -1,5 +1,7 @@
 [Readme.md](https://github.com/user-attachments/files/24699085/Readme.md)
 
+This project is licensed under the MIT License.
+
 Generate shortcuts from additional applications or external files with PEStartup (v1.1.7.0) or plugin. 
 Together with StartAllBack and Explorer Shell Plugin.
 
