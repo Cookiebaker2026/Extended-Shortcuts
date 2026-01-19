@@ -1,6 +1,9 @@
 [Readme.md](https://github.com/user-attachments/files/24699085/Readme.md)
+
 Generate shortcuts from additional applications or external files with PEStartup (v1.1.7.0) or plugin. 
 Together with StartAllBack and Explorer Shell Plugin.
+
+<img width="1281" height="859" alt="Bkki6TFdHg" src="https://github.com/user-attachments/assets/68a8fac9-c4c2-47be-a4da-44b4bd7c4cb0" />
 
 You can add shortcuts from files inside PhoenixPE or from external sources.
 
